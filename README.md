@@ -1,5 +1,6 @@
 # fecp4-1022
 FECP4-1022 Lab 1: Deploying environments in Kubernetes
+
 Below are the instructions on how to create a deployment for production environment.
 
 ### 1. Create namespace
